@@ -1,0 +1,1 @@
+ALTER TABLE federation.accounts ADD CONSTRAINT accounts_pk PRIMARY KEY (id);

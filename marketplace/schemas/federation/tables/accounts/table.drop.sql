@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS federation.accounts CASCADE;

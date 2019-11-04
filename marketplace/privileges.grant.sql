@@ -1,0 +1,1 @@
+ALTER DATABASE marketplace OWNER TO mp;
